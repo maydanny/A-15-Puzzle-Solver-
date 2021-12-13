@@ -1,4 +1,4 @@
-# 15 Puzzle Solver
+# AI 15 Puzzle Solver
 
 A* Search Strategy for solving the 15-puzzle problem.
 Use sum of Manhattan distances of tiles from their goal positions as heuristic function h(n).
